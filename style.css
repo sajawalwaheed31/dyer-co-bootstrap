@@ -1,0 +1,16 @@
+*,body {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+    color: #697c86;
+}
+.main-container {
+	/* max-width: 690px; */
+	margin:0 auto;
+}
+.bg-ht {
+    height: 123px;
+}
