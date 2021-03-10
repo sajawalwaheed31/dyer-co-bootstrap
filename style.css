@@ -7,10 +7,34 @@
 body {
     color: #697c86;
 }
-.main-container {
+.container {
 	/* max-width: 690px; */
 	margin:0 auto;
+	padding: 20px 0 20px;
 }
 .bg-ht {
     height: 123px;
+}
+.color {
+	border-bottom: 1px solid grey;
+}
+.bg-clr {
+	background-color: gray;
+	color: white;
+	padding: 10px;
+}
+.a-clr {
+	color: white;
+}
+.mb {
+	margin-bottom: 20px;
+}
+.il-bk {
+	display: inline-block;
+}
+.bb {
+	border-bottom: 1px solid #000;
+}
+.row .col-sm-2 ul li a {
+	color: #000;
 }
